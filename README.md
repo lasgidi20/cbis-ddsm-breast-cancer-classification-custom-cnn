@@ -1,4 +1,4 @@
-# cbis-ddsm-breast-cancer-classification-custom-cnn
+# cbis-ddsm-breast-cancer-classification-custom-cnn-full-mammograms
 Project Overview
 
 This project implements a custom Convolutional Neural Network (CNN) from scratch using PyTorch to classify breast masses as benign or malignant from full mammogram images.
